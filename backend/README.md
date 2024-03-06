@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # After running docker
 
--   configure mysql variables in .env `(DB_HOST=db)`
+-   configure mysql variables in .env `(DB_HOST=mysql)`
 -   Run the following commands
     ```sh
     docker exec -it laravel-project-php-1 bash
