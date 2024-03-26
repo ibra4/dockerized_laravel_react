@@ -1,3 +1,5 @@
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 # Dockerized Laravel 10 with Nginx, React 18, MySQL 8, MongoDB 7, and PHPMyAdmin
 
 This repository provides a Dockerized setup for running
